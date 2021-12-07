@@ -3,6 +3,8 @@
 
 *This text is italicized*
 
+***All this text is important***
+
 ~~This was mistaken text~~
 
 [google](https://www.google.com/search?channel=fs&client=ubuntu&q=google&shem=ssmd)
